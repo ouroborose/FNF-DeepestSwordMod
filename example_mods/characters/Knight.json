@@ -1,0 +1,243 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "idle",
+			"loop": true,
+			"name": "Knight Idle"
+		},
+		{
+			"offsets": [
+				2,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "Knight MissDown"
+		},
+		{
+			"offsets": [
+				-2,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "Knight MissUp"
+		},
+		{
+			"offsets": [
+				0,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "Knight MissRight"
+		},
+		{
+			"offsets": [
+				2,
+				-1
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Knight Left"
+		},
+		{
+			"offsets": [
+				0,
+				-3
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Knight Up"
+		},
+		{
+			"offsets": [
+				3,
+				-2
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Knight Right"
+		},
+		{
+			"offsets": [
+				2,
+				-3
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "hey",
+			"loop": false,
+			"name": "Knight Yeah"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hurt",
+			"loop": false,
+			"name": "Knight MissRight"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "scared",
+			"loop": true,
+			"name": "Knight MissRight"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "Knight MissRight"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "Knight MissRight"
+		},
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "Knight MissRight"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "dodge",
+			"loop": false,
+			"name": "Knight Idle"
+		},
+		{
+			"offsets": [
+				-2,
+				0
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "attack",
+			"loop": false,
+			"name": "Knight Idle"
+		},
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "pre-attack",
+			"loop": false,
+			"name": "Knight Idle"
+		},
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "Idle",
+			"loop": true,
+			"name": "Knight Idle"
+		},
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "singLeft",
+			"loop": false,
+			"name": "Knight Left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Knight Down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "Knight MissLeft"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Knight",
+	"position": [
+		-150,
+		-60
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

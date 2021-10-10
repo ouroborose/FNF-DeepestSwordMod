@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Knight.png"><SubTexture name="Knight Down0000" x="0" y="0" width="730" height="737" frameX="0" frameY="0" frameWidth="730" frameHeight="737" />
+<SubTexture name="Knight Down0001" x="730" y="0" width="730" height="737" frameX="0" frameY="0" frameWidth="730" frameHeight="737" />
+<SubTexture name="Knight Idle0000" x="1460" y="0" width="730" height="737" frameX="0" frameY="0" frameWidth="730" frameHeight="737" />
+<SubTexture name="Knight Idle0001" x="2190" y="0" width="730" height="737" frameX="0" frameY="0" frameWidth="730" frameHeight="737" />
+<SubTexture name="Knight Idle0002" x="0" y="737" width="730" height="737" frameX="0" frameY="0" frameWidth="730" frameHeight="737" />
+<SubTexture name="Knight Left0000" x="730" y="737" width="730" height="737" frameX="0" frameY="0" frameWidth="730" frameHeight="737" />
+<SubTexture name="Knight Left0001" x="1460" y="737" width="730" height="737" frameX="0" frameY="0" frameWidth="730" frameHeight="737" />
+<SubTexture name="Knight MissDown0000" x="2190" y="737" width="730" height="737" frameX="0" frameY="0" frameWidth="730" frameHeight="737" />
+<SubTexture name="Knight MissLeft0000" x="0" y="1474" width="730" height="737" frameX="0" frameY="0" frameWidth="730" frameHeight="737" />
+<SubTexture name="Knight MissRight0000" x="730" y="1474" width="730" height="737" frameX="0" frameY="0" frameWidth="730" frameHeight="737" />
+<SubTexture name="Knight MissUp0000" x="1460" y="1474" width="730" height="737" frameX="0" frameY="0" frameWidth="730" frameHeight="737" />
+<SubTexture name="Knight Right0000" x="2190" y="1474" width="730" height="737" frameX="0" frameY="0" frameWidth="730" frameHeight="737" />
+<SubTexture name="Knight Right0001" x="0" y="2211" width="730" height="737" frameX="0" frameY="0" frameWidth="730" frameHeight="737" />
+<SubTexture name="Knight Up0000" x="730" y="2211" width="730" height="737" frameX="0" frameY="0" frameWidth="730" frameHeight="737" />
+<SubTexture name="Knight Up0001" x="1460" y="2211" width="730" height="737" frameX="0" frameY="0" frameWidth="730" frameHeight="737" />
+<SubTexture name="Knight Yeah0000" x="2190" y="2211" width="730" height="737" frameX="0" frameY="0" frameWidth="730" frameHeight="737" />
+<SubTexture name="Knight Yeah0001" x="0" y="2948" width="730" height="737" frameX="0" frameY="0" frameWidth="730" frameHeight="737" />
+</TextureAtlas>
